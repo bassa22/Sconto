@@ -6,6 +6,7 @@ import java.util.Scanner;
 /**
  *
  * @author bel22724
+ * progetto Sconto
  */
 public class Sconto {
 
